@@ -1,0 +1,31 @@
+.card-button {
+    -fx-font-size: 20px;
+    -fx-min-width: 80px;
+    -fx-min-height: 120px;
+    -fx-text-fill: white; 
+    -fx-font-weight: bolder;
+
+}
+
+.card-button.red {
+    -fx-background-color: red;
+}
+
+.card-button.green {
+    -fx-background-color: green;
+}
+
+.card-button.blue {
+    -fx-background-color: blue;
+}
+
+.card-button.yellow {
+    -fx-background-color: yellow;
+    -fx-text-fill: black; 
+}
+
+.card-button.facing-down {
+    -fx-background-color: #999999; 
+    -fx-min-width: 80px;
+    -fx-min-height: 120px;
+  }

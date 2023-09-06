@@ -1,0 +1,31 @@
+New game started!
+
+
+sarp played a green 6
+Opponent played a green 3
+sarp played a green 7
+Opponent played a green 4
+sarp played a yellow 4
+Opponent played a yellow 2
+sarp played a yellow 5
+Opponent played a blue 5
+sarp played a blue 3
+Opponent played a red 3
+sarp drew a card
+Opponent drew a card
+sarp drew a card
+Opponent drew a card
+sarp drew a card
+Opponent played a red 4
+sarp played a yellow 4
+Opponent played a blue 4
+sarp played a blue 5
+Opponent played a blue 1
+sarp played a green 1
+Opponent played a green 5
+sarp played a green 5
+Opponent drew a card
+sarp played a green 2
+Opponent played a yellow 2
+sarp played a yellow 7
+sarp Won!
